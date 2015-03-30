@@ -1,0 +1,2 @@
+:imap <D-space> <Esc>
+set guifont=Monoco:h14
